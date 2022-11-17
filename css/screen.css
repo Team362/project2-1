@@ -43,3 +43,32 @@ h2 {
   padding: 1em;
   color: white;
 }
+
+p {
+  padding: 1em;
+}
+
+form {
+  padding: 1em;
+  text-align: center;
+}
+
+#error {
+  display: none;
+}
+
+input {
+  font-size: 1em;
+  background-color: #003366;
+  color: white;
+  width: 50%;
+}
+
+#msg-field {
+  height: 6em;
+  text-align: top-left;
+}
+
+footer {
+  background-color: #336699;
+}
