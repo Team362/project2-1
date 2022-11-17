@@ -60,11 +60,15 @@ input {
   background-color: #003366;
   color: white;
   width: 50%;
+  border-color: white;
+}
+
+form li {
+  padding: 0.1em;
 }
 
 #msg-field {
   height: 6em;
-  text-align: top-left;
 }
 
 footer {
