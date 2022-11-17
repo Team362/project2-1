@@ -69,4 +69,7 @@ input {
 
 footer {
   background-color: #336699;
+  color: white;
+  text-align: right;
+  padding: 1em;
 }
