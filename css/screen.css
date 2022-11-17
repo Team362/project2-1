@@ -12,11 +12,33 @@ html {
   background-color: white;
 }
 
+#logo {
+  text-align: center;
+}
 
-
+nav {
+  color: #449BBB;
+  flex-direction: row;
+  background: #EEE;
+  border: solid;
+  border-color: black;
+}
 body {
   /*using 21px @ 1.333 ratio modular scale https://www.modularscale.com/?21&px&1.333*/
   font-size: 1.75em;/* 27.993/16 = 1.75em*/
   padding: 1em;
   line-height: 1.333em; 
+}
+
+h1 {
+  font-size: 1.777em /* 37.315/21 = 1.777 */;
+  padding-bottom: 1em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.333em;
+  background-color: #336699;
+  padding: 1em;
+  color: white;
 }
